@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /lead.php
+
+Sitemap: https://unbetreute-police.ch/sitemap.xml
